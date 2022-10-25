@@ -1,5 +1,5 @@
 /**
- * SFDC Webhook Sample
+ * Webhook Sample
  */
 
 require('dotenv').config();
